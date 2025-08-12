@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+button[class="ui-btn"] {
+    background: #219653;
+    border: 0;
+    color: #fff;
+}
+
+button[class="ui-btn"]:hover {
+    background: #1e8247;
+}
+
+button[class="ui-btn"]:active {
+    background: #0e3a20;
+}
+
+/* 这个持续更新 */
